@@ -1,0 +1,35 @@
+<form (ngSubmit)="onSubmitAlbum()" #workForm="ngForm">
+  <div>
+    <label for="title">Album Title:</label>
+    <input type="text" id="title" [(ngModel)]="Album.title" name="title" required>
+  </div>
+
+  <div>
+    <label for="releaseDate">Release Date:</label>
+    <input type="date" id="releaseDate" [(ngModel)]="Album.releaseDate" name="releaseDate" required>
+  </div>
+
+  <div>
+    <label for="coverUrl">Cover URL:</label>
+    <input type="url" id="coverUrl" [(ngModel)]="Album.coverUrl" name="coverUrl">
+  </div>
+
+  <h2>Register Songs</h2>
+
+  <div *ngFor="let song of Songs; let i = index">
+    <label for="songTitle">Song Title:</label>
+    <input type="text" id="songTitle" [(ngModel)]="Songs[i].title" name="title{{i}}" required>
+
+    <label for="songLength">Song Length:</label>
+    <input type="text" id="songLength" [(ngModel)]="Songs[i].length" name="length{{i}}" required>
+
+    <label for="songYouTubeUrl">YouTube URL:</label>
+    <input type="url" id="songYouTubeUrl" [(ngModel)]="Songs[i].youTubeUrl" name="youTubeUrl{{i}}">
+
+    <button type="button" (click)="removeSong(i)">Remove Song</button>
+  </div>
+
+  <button type="button" (click)="addSong()">Add new song</button>
+
+  <button type="submit">Register Album</button>
+</form>

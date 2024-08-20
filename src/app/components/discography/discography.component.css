@@ -1,0 +1,87 @@
+.album-item {
+    display: flex;
+    align-items: self-start;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #eaeaea;
+    transition: transform 0.3s ease-in-out;
+    font-family: 'Iron Maiden';
+}
+
+.album-item:hover {
+    transform: scale(1.02);
+}
+
+.album-item:last-child {
+    border-bottom: none;
+}
+
+.album-cover {
+    width: 150px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.album-details {
+    flex-grow: 1;
+}
+
+.album-details h2 {
+    margin: 0 0 15px;
+    font-size: 24px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.album-details ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.album-details li {
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: #555;
+}
+
+.album-details li a {
+    color: whitesmoke;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+
+.album-details li a:hover {
+    color: #8d8f91;
+}
+
+.admin-button-container {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 1200px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.admin-button-container a {
+    text-decoration: none;
+    color: #fff118;
+    font-size: 24px;
+    padding: 15px;
+    display: inline-block;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    text-align: center;
+}
+
+.admin-button-container a:hover {
+    background-color: #ff6900;
+    color: #ffffff;
+}

@@ -1,0 +1,28 @@
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #181818;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .social-icons a {
+    color: #ffffff;
+    font-size: 24px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .social-icons a:nth-child(2):hover {
+    color: #333333; 
+  }
+  
+  .social-icons a:last-child:hover {
+    color: #0077b5; 
+  }

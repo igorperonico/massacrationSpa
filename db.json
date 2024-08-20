@@ -1,0 +1,372 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Gates of Metal Fried Chicken of Death",
+      "releaseDate": "2005",
+      "coverUrl": "https://massacration.net/wp-content/uploads/2016/12/gates-300x300.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Good Blood Headbangers",
+      "releaseDate": "2009",
+      "coverUrl": "https://massacration.net/wp-content/uploads/2016/12/Good-Blood-Headbangers-300x300.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Metal Milf",
+      "releaseDate": "2017",
+      "coverUrl": "https://massacration.net/wp-content/uploads/2016/12/Massacration-Metal-Milf-300x300.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Live Metal Espancation",
+      "releaseDate": "2017",
+      "coverUrl": "https://massacration.net/wp-content/uploads/2016/12/Massacration-DVD-Capa-1-1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Metal Is My Life",
+      "releaseDate": "2024",
+      "coverUrl": "https://massacration.net/wp-content/uploads/2024/07/450449737_18103437232413906_8358806589499945738_n.jpg"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "title": "Intro",
+      "length": "1:26",
+      "youTubeUrl": "https://www.youtube.com/watch?v=dLylOkbplPQ&list=PL31C1ACF38D4FB8D7&index=1"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "title": "Metal Is the Law",
+      "length": "3:46",
+      "youTubeUrl": "https://www.youtube.com/watch?v=VVKxhOosHBg&list=PL31C1ACF38D4FB8D7&index=2"
+    },
+    {
+      "id": 3,
+      "albumId": 1,
+      "title": "Evil Papagali",
+      "length": "4:52",
+      "youTubeUrl": "https://www.youtube.com/watch?v=VTVYAqKdur0&list=PL31C1ACF38D4FB8D7&index=3"
+    },
+    {
+      "id": 4,
+      "albumId": 1,
+      "title": "Metal Massacre Attack (Aruê Aruô)",
+      "length": "1:55",
+      "youTubeUrl": "https://www.youtube.com/watch?v=g6lQl5JjbmI&list=PL31C1ACF38D4FB8D7&index=4"
+    },
+    {
+      "id": 5,
+      "albumId": 1,
+      "title": "Feel the Fire from Barbecue",
+      "length": "3:50",
+      "youTubeUrl": "https://www.youtube.com/watch?v=xH7VsEcZtN4&list=PL31C1ACF38D4FB8D7&index=5"
+    },
+    {
+      "id": 6,
+      "albumId": 1,
+      "title": "Metal Milkshake",
+      "length": "2:48",
+      "youTubeUrl": "https://www.youtube.com/watch?v=TMgMVrnOYEw&list=PL31C1ACF38D4FB8D7&index=6"
+    },
+    {
+      "id": 7,
+      "albumId": 1,
+      "title": "The God Master",
+      "length": "2:18",
+      "youTubeUrl": "https://www.youtube.com/watch?v=3WQqnb0jqpM&list=PL31C1ACF38D4FB8D7&index=7"
+    },
+    {
+      "id": 8,
+      "albumId": 1,
+      "title": "Cereal Metal",
+      "length": "4:00",
+      "youTubeUrl": "https://www.youtube.com/watch?v=JFP9dUUGtAo&list=PL31C1ACF38D4FB8D7&index=8"
+    },
+    {
+      "id": 9,
+      "albumId": 1,
+      "title": "Metal Dental Destruction",
+      "length": "5:21",
+      "youTubeUrl": "https://www.youtube.com/watch?v=FjIQlPzTcGs&list=PL31C1ACF38D4FB8D7&index=9"
+    },
+    {
+      "id": 10,
+      "albumId": 1,
+      "title": "Lets Ride to Metal Land (the Passage Is R$1,00)",
+      "length": "4:47",
+      "youTubeUrl": "https://www.youtube.com/watch?v=wGhigjK8H2c&list=PL31C1ACF38D4FB8D7&index=10"
+    },
+    {
+      "id": 11,
+      "albumId": 1,
+      "title": "Metal Glu Glu",
+      "length": "3:16",
+      "youTubeUrl": "https://www.youtube.com/watch?v=WUtdTBeg11Y&list=PL31C1ACF38D4FB8D7&index=12"
+    },
+    {
+      "id": 12,
+      "albumId": 1,
+      "title": "Away Doom",
+      "length": "1:54",
+      "youTubeUrl": "https://www.youtube.com/watch?v=QZurWCQGSkA&list=PL31C1ACF38D4FB8D7&index=11"
+    },
+    {
+      "id": 13,
+      "albumId": 1,
+      "title": "Metal Bucetation",
+      "length": "6:21",
+      "youTubeUrl": "https://www.youtube.com/watch?v=rlft_Ff4cfQ&list=PL31C1ACF38D4FB8D7&index=13"
+    },
+    {
+      "id": 14,
+      "albumId": 2,
+      "title": "Hammercage Hotdog Hell",
+      "length": "2:47",
+      "youTubeUrl": "https://www.youtube.com/watch?v=qqFMQlGNchM&list=PLE1A4C0C4630FAB75&index=8"
+    },
+    {
+      "id": 15,
+      "albumId": 2,
+      "title": "The Mummy",
+      "length": "5:28",
+      "youTubeUrl": "https://www.youtube.com/watch?v=U8c0XoY2Bro&list=PLE1A4C0C4630FAB75&index=9"
+    },
+    {
+      "id": 16,
+      "albumId": 2,
+      "title": "Sufocators of Metal",
+      "length": "3:48",
+      "youTubeUrl": "https://www.youtube.com/watch?v=5o5Ez2TROxw&list=PLE1A4C0C4630FAB75&index=7"
+    },
+    {
+      "id": 17,
+      "albumId": 2,
+      "title": "The Bull",
+      "length": "5:41",
+      "youTubeUrl": "https://www.youtube.com/watch?v=_3s61qdGyB8&list=PLE1A4C0C4630FAB75&index=4"
+    },
+    {
+      "id": 18,
+      "albumId": 2,
+      "title": "The Fire, the Steel, the Heavy & the Money",
+      "length": "5:05",
+      "youTubeUrl": "https://www.youtube.com/watch?v=u3-TT8QTnWM&list=PLE1A4C0C4630FAB75&index=10"
+    },
+    {
+      "id": 19,
+      "albumId": 2,
+      "title": "The Big Heavy Metal",
+      "length": "5:08",
+      "youTubeUrl": "https://www.youtube.com/watch?v=2WIx--gDqYw&list=PLE1A4C0C4630FAB75&index=5"
+    },
+    {
+      "id": 20,
+      "albumId": 2,
+      "title": "Bad Defecation (the Bost Thunder)",
+      "length": "5:04",
+      "youTubeUrl": "https://www.youtube.com/watch?v=3xmRU8pcKTk&list=PLE1A4C0C4630FAB75&index=3"
+    },
+    {
+      "id": 21,
+      "albumId": 2,
+      "title": "Good Blood Headbanguers",
+      "length": "3:50",
+      "youTubeUrl": "https://www.youtube.com/watch?v=ZIwCALh9WeY&list=PLE1A4C0C4630FAB75&index=1"
+    },
+    {
+      "id": 22,
+      "albumId": 2,
+      "title": "Massacration",
+      "length": "5:14",
+      "youTubeUrl": "https://www.youtube.com/watch?v=8PUWJH9m_oA&list=PLE1A4C0C4630FAB75&index=6"
+    },
+    {
+      "id": 23,
+      "albumId": 2,
+      "title": "The Hymn of Metal Land",
+      "length": "4:05",
+      "youTubeUrl": "https://www.youtube.com/watch?v=Ze0bCX7wF7I&list=PLE1A4C0C4630FAB75&index=2"
+    },
+    {
+      "id": 24,
+      "albumId": 3,
+      "title": "Metal Milf",
+      "length": "3:55",
+      "youTubeUrl": "https://www.youtube.com/watch?v=F4gqnN0Vods"
+    },
+    {
+      "id": 25,
+      "albumId": 4,
+      "title": "Metal Is The Law",
+      "length": "4:05",
+      "youTubeUrl": "https://www.youtube.com/watch?v=L3i5v8W3fRs&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE"
+    },
+    {
+      "id": 26,
+      "albumId": 4,
+      "title": "Metal Milkshake",
+      "length": "3:10",
+      "youTubeUrl": "https://www.youtube.com/watch?v=bXQK1ZFWTw4&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE&index=3"
+    },
+    {
+      "id": 27,
+      "albumId": 4,
+      "title": "The Mummy",
+      "length": "5:24",
+      "youTubeUrl": "https://www.youtube.com/watch?v=OBl3fvNM6B0&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE&index=4"
+    },
+    {
+      "id": 28,
+      "albumId": 4,
+      "title": "Cereal Metal",
+      "length": "4:14",
+      "youTubeUrl": "https://www.youtube.com/watch?v=WTd4XdM_DN0&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE&index=5"
+    },
+    {
+      "id": 29,
+      "albumId": 4,
+      "title": "Metal Dental Destruction",
+      "length": "5:30",
+      "youTubeUrl": "https://www.youtube.com/watch?v=aWEQbVuTc2A&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE&index=6"
+    },
+    {
+      "id": 30,
+      "albumId": 4,
+      "title": "The Bull",
+      "length": "5:55",
+      "youTubeUrl": "https://www.youtube.com/watch?v=SkWzcsxOt4k&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE&index=7"
+    },
+    {
+      "id": 31,
+      "albumId": 4,
+      "title": "Metal Glu-Glu",
+      "length": "2:57",
+      "youTubeUrl": "https://www.youtube.com/watch?v=UTeUOOpUvJA&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE&index=8"
+    },
+    {
+      "id": 32,
+      "albumId": 4,
+      "title": "Let’s Ride to the Metal Land (The Passage Is R$1,00)",
+      "length": "4:48",
+      "youTubeUrl": "https://www.youtube.com/watch?v=wm5AEs3T6Vk&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE&index=9"
+    },
+    {
+      "id": 33,
+      "albumId": 4,
+      "title": "Evil Papagali",
+      "length": "5:05",
+      "youTubeUrl": "https://www.youtube.com/watch?v=m6JdB2NyRyM&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE&index=10"
+    },
+    {
+      "id": 34,
+      "albumId": 4,
+      "title": "Massacration",
+      "length": "5:20",
+      "youTubeUrl": "https://www.youtube.com/watch?v=W4PE9RQeMa0&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE&index=11"
+    },
+    {
+      "id": 35,
+      "albumId": 4,
+      "title": "Metal Milf",
+      "length": "4:58",
+      "youTubeUrl": "https://www.youtube.com/watch?v=5HBeUNKtZFA&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE&index=12"
+    },
+    {
+      "id": 36,
+      "albumId": 4,
+      "title": "Metal Massacre Attack (Aruê Aruô)",
+      "length": "2:35",
+      "youTubeUrl": "https://www.youtube.com/watch?v=nhXvpVcMZl0&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE&index=13"
+    },
+    {
+      "id": 37,
+      "albumId": 4,
+      "title": "Metal Bucetation",
+      "length": "4:40",
+      "youTubeUrl": "https://www.youtube.com/watch?v=2PNNnoFMGEk&list=OLAK5uy_mp1cPRktGJ-mNie7bWYogoiMzgrUzs3uE&index=14"
+    },
+    {
+      "id": 38,
+      "albumId": 5,
+      "title": "Massacration Apocalypse",
+      "length": "3:45",
+      "youTubeUrl": "https://www.youtube.com/watch?v=c7NO4v-ZmB0&list=PLg7RdyJTkqRhn9F8J_fFvqo1KUIhsqqxg"
+    },
+    {
+      "id": 39,
+      "albumId": 5,
+      "title": "Revenge of the Bull",
+      "length": "3:40",
+      "youTubeUrl": "https://www.youtube.com/watch?v=lvljiu4wl5A&list=PLg7RdyJTkqRhn9F8J_fFvqo1KUIhsqqxg&index=2"
+    },
+    {
+      "id": 40,
+      "albumId": 5,
+      "title": "November Gay",
+      "length": "4:51",
+      "youTubeUrl": "https://www.youtube.com/watch?v=qTb2gvnunlQ&list=OLAK5uy_nKqUxLOW2uK8CaKIBW9kUbSWcw9R3OqJI&index=3"
+    },
+    {
+      "id": 41,
+      "albumId": 5,
+      "title": "Metal Milf",
+      "length": "3:57",
+      "youTubeUrl": "https://www.youtube.com/watch?v=3r0M3HefpiY&list=PLg7RdyJTkqRhn9F8J_fFvqo1KUIhsqqxg&index=4"
+    },
+    {
+      "id": 42,
+      "albumId": 5,
+      "title": "Flight of the Chicken",
+      "length": "4:29",
+      "youTubeUrl": "https://www.youtube.com/watch?v=QBNlBUuSqEM&list=PLg7RdyJTkqRhn9F8J_fFvqo1KUIhsqqxg&index=5"
+    },
+    {
+      "id": 43,
+      "albumId": 5,
+      "title": "Metal Galera",
+      "length": "4:26",
+      "youTubeUrl": "https://www.youtube.com/watch?v=bVejrfxQsrw&list=PLg7RdyJTkqRhn9F8J_fFvqo1KUIhsqqxg&index=6"
+    },
+    {
+      "id": 44,
+      "albumId": 5,
+      "title": "Metal Is My Life",
+      "length": "3:50",
+      "youTubeUrl": "https://www.youtube.com/watch?v=gwV4BQGtEDk&list=PLg7RdyJTkqRhn9F8J_fFvqo1KUIhsqqxg&index=7"
+    },
+    {
+      "id": 45,
+      "albumId": 5,
+      "title": "Metal Warferas",
+      "length": "3:20",
+      "youTubeUrl": "https://www.youtube.com/watch?v=yDjlOLapGvU&list=PLg7RdyJTkqRhn9F8J_fFvqo1KUIhsqqxg&index=8"
+    },
+    {
+      "id": 46,
+      "albumId": 5,
+      "title": "March of Headbenze",
+      "length": "3:40",
+      "youTubeUrl": "https://www.youtube.com/watch?v=k1FSELGBn_k&list=PLg7RdyJTkqRhn9F8J_fFvqo1KUIhsqqxg&index=9"
+    },
+    {
+      "id": 47,
+      "albumId": 5,
+      "title": "Motormetal",
+      "length": "3:10",
+      "youTubeUrl": "https://www.youtube.com/watch?v=eLR__RgFbN0&list=PLg7RdyJTkqRhn9F8J_fFvqo1KUIhsqqxg&index=10"
+    },
+    {
+      "id": 48,
+      "albumId": 5,
+      "title": "Anal Weapon War",
+      "length": "4:17",
+      "youTubeUrl": "https://www.youtube.com/watch?v=NEQsXhV0ezc&list=PLg7RdyJTkqRhn9F8J_fFvqo1KUIhsqqxg&index=11"
+    }
+  ]
+}
